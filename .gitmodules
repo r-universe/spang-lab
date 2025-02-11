@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "FastRet"]
+	path = FastRet
+	url = https://github.com/spang-lab/fastret
 [submodule "metabodecon"]
 	path = metabodecon
 	url = https://github.com/spang-lab/metabodecon
