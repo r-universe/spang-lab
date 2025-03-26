@@ -5,6 +5,10 @@
 [submodule "FastRet"]
 	path = FastRet
 	url = https://github.com/spang-lab/fastret
+[submodule "mdrb"]
+	path = mdrb
+	url = https://github.com/spang-lab/mdrb
+	registered = false
 [submodule "metabodecon"]
 	path = metabodecon
 	url = https://github.com/spang-lab/metabodecon
